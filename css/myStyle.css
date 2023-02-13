@@ -1,0 +1,86 @@
+* {
+    margin: 0 auto;
+}
+
+body {
+height: 100vh;
+background-color: rgb(127, 213, 174);
+color: white;
+font-family: 'Montserrat Alternates', sans-serif;
+}
+#result {
+    background-color: rgb(127, 213, 174);
+}
+
+h1, p {
+    text-align: center;
+}
+
+form {
+    background-color:rgb(17, 80, 56) ;
+    width: 500px;
+    height: 150px;
+    border-radius: 30px;
+}
+
+#l-fr {
+    position: relative;
+    top: 65px;
+    left: 100px;
+}
+
+#l-to {
+    position: relative;
+    top: 65px;
+    left: 100px;
+}
+
+#l-amt {
+    position: relative;
+    top: 85px;
+    left: -70px;
+}
+
+label {
+    color: white;
+}
+
+#from {
+    background-color: rgb(127, 213, 174);
+    border: none;
+    color: white;
+}
+
+#to {
+    background-color: rgb(127, 213, 174);
+    border: none;
+    color: white;
+}
+
+select {
+    position: relative;
+    top: 65px;
+    left: 100px;
+    font-family: 'Montserrat Alternates', sans-serif;
+}
+
+input {
+    position: relative;
+    top: 85px;
+    left: -70px;
+    border: none;
+    background-color: rgb(127, 213, 174);
+    color: white;
+}
+
+button {
+    background-color: rgb(127, 213, 174);
+    color: white;
+    position: relative;
+    top: 85px;
+    left: -70px;
+    border: none;
+    font-family: 'Montserrat Alternates', sans-serif;
+
+}
+
